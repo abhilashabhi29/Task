@@ -20,5 +20,5 @@ pytz==2016.10
 requests==2.23.0
 six==1.10.0
 SQLAlchemy==1.1.5
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==0.11.15
